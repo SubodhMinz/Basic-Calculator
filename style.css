@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.container{
+    height: 250px;
+    width: 250px;
+    border: 2px solid black;
+    text-align: center;
+    margin: 30px auto;
+    box-shadow: 1px 1px 10px black;
+}
+input{
+    height: 30px;
+    width: 206px;
+    margin: 5px 0;
+}
+
+table{
+    margin: auto;
+    padding-bottom: 7px;
+    
+}
+
+button{
+    width: 50px;
+    height: 30px;
+}
